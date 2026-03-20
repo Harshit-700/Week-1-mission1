@@ -6,13 +6,11 @@ A clean, responsive landing page for **Prodesk IT**, an IT services company. Bui
 
 ---
 
-## 📸 Preview
+## Screenshot of website 
 
  ![image alt](https://https://github.com/Harshit-700/Week-1-mission1/blob/c2ad055d2ff0a1119a011f9c2b35eae8e29cc58e/Screenshot%20(408).png)
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light Mode](./screenshots/light.png) | *(Toggle via 🌙 button)* |
+
 
 ---
 
